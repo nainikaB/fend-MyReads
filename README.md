@@ -21,11 +21,11 @@ The project which was given to us had a starter code attached so we could just f
 
 # How to use the app
 
-The books are divided into three categories: Currently Reading, Want to Read and Read
+- The books are divided into three categories: Currently Reading, Want to Read and Read
 
-If you need to change a book's category or remove a book from the from the main page, click on the green button on the book cover 
+- If you need to change a book's category or remove a book from the main page, click on the green button on the book cover 
 
-If you want to add new books, click on the green plus(+) button at the bottom of the main page. Enter an author's name or subject and the results will pop up. 
+- If you want to add new books, click on the green plus(+) button at the bottom of the main page. Enter an author's name or subject and the results will pop up. 
 
 
 
